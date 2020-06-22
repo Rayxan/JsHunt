@@ -1,4 +1,4 @@
-# Aplicação simples para compreensão de conceitos básicos de React.
+# Aplicação simples para compreensão de conceitos básicos em React.
 
  ## Página inicial de listagem dos produtos
 ![ScreenShot](https://raw.github.com/Rayxan/JsHunt/master/repo-img/JsHuntOne.png)
